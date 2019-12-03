@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The purpose of the application is to provide GitHub repo searching based on username and bio details. This was my first attempt at creating a single page react app using react-router, react and axios.
 
+## Search Page Preview
+![image](site-preview2.png)
+
+## User Detail View
+![image](site-preview.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
